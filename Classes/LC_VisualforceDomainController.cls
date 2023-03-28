@@ -1,9 +1,4 @@
-/*
-Author: Doug Ayers
-Website: https://douglascayers.com
-GitHub: https://github.com/douglascayers/sfdx-lightning-api-component
-License: BSD 3-Clause License
- */
+
 public with sharing class LC_VisualforceDomainController {
 
     // Aura Component
