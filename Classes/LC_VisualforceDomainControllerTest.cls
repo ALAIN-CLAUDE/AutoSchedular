@@ -1,9 +1,4 @@
-/*
-Author: Doug Ayers
-Website: https://douglascayers.com
-GitHub: https://github.com/douglascayers/sfdx-lightning-api-component
-License: BSD 3-Clause License
- */
+
 @IsTest
 private class LC_VisualforceDomainControllerTest {
 
