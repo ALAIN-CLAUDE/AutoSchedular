@@ -1,13 +1,4 @@
-/**
- * Author: Doug Ayers
- * Website: https://douglascayers.com
- * GitHub: https://github.com/douglascayers-org/sfdx-mass-action-scheduler
- * License: BSD 3-Clause License
- */
-/*
- * Represents some parts of an XML response from Anonymous Apex SOAP API.
- * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/sforce_api_calls_executeanonymous_result.htm
- */
+
 public inherited sharing class MA_AnonymousApexExecuteResult {
 
     public Integer column { get; set; }
