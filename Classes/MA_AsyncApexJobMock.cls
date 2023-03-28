@@ -1,12 +1,4 @@
-/**
- * Author: Doug Ayers
- * Website: https://douglascayers.com
- * GitHub: https://github.com/douglascayers-org/sfdx-mass-action-scheduler
- * License: BSD 3-Clause License
- */
-/*
- * Test coverage provided by MA_MassActionBatchUtilsTest.
- */
+
 public inherited sharing class MA_AsyncApexJobMock {
 
     // These are fake job ids that parse via ID.valueOf()
